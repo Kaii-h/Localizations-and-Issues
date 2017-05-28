@@ -1,0 +1,25 @@
+!--------------------------------------- EnderTanks ru_RU.lang Localization ---------------------------------------!
+! Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes
+! msg entries can span multiple lines, use <br> to indicate a line break.
+
+!------------------------------------------------------ MISC ------------------------------------------------------!
+itemGroup.endertanks=EnderTanks
+
+!----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!
+error.endertanks.bucket.nolink1.txt=Невозможно привязать ведро, вы не являетесь владельцем этой цистерны
+error.endertanks.bucket.nolink2.txt=Невозможно привязать ведро, владелец цистерны неизвестен
+
+info.endertanks.bucket.header.txt=Ведро
+info.endertanks.tank.header.txt=Цистерна
+info.endertanks.tank.empty.txt=Пустое
+info.endertanks.tank.public.txt=Общее использование
+info.endertanks.tank.code.txt=Код:
+info.endertanks.tank.capacity.txt=Емкость цистерны увеличина до
+info.endertanks.tank.pump.upgrade.txt=Помпа улучшена до
+info.endertanks.tank.pump.txt=Помпа
+
+!-------------------------------------------------- ITEMS/BLOCKS --------------------------------------------------!
+item.endertanks.bucket.public.name=Эндер-ведро
+item.endertanks.bucket.private.name=Эндер-ведро
+tile.endertanks.tank.public.name=Эндер-цистерна
+tile.endertanks.tank.private.name=Эндер-цистерна
